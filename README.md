@@ -2,7 +2,7 @@
 
 ## Mission and Priorities
 
-The Programming Languages and Artificial Intelligence (PLAI) group is a research group dedicated to the pursuit of general purpose artificial intelligence.  Technology-rich spin-off entrepreneurial activity is encouraged as a by-product.
+The Programming Languages and Artificial Intelligence (PLAI) group is a research group dedicated to the pursuit of general purpose artificial intelligence.  Technology-rich spin-off entrepreneurial activity is encouraged as a by-product.  
 
 ## Student Goals
 
@@ -11,6 +11,14 @@ We are first and foremost an academic lab.  To fit in the PLAI group your career
 ## Guidelines and Standards
 
 You are expected to complete your PhD in 5 years plus or minus one year.  In order to be competitive on the world job- and fund-raising markets you should have at least 5 _accepted_ papers by the time you graduate.  The acceptance rate at major machine learning conferences is approximately 20%.  PLAI group acceptance rates are significantly higher, especially so if you count resubmissions.  Do the math.  This means you should plan to submit somewhere between 5 and 25 papers during your PhD.  Note that we simply do not submit papers to lower tier conferences and venues (AISTATS, NIPS, ICML, ICLR are the preferred conference venues; UAI, IJCAI, AAAI, ECML are acceptable -- so too top tier vision and NLP conferences).  Journal submissions can be discussed on an ad hoc basis.  I have a strong preference for journals that do not impose a paywall, for instance JMLR and FTML.
+
+Note that there are relatively few deadlines throughout the year.  Missing a deadline is a cardinal sin and a serious detriment to achieving your aims as a PhD student.
+
+## Paper Submission Policy
+
+No paper shall be submitted to any conference, workshop, or journal unless a 5-page paper draft with a full experimental section including preliminary figures is submitted to me _2 weeks_ before the deadline.  Only in exceptional circumstances will exceptions to this rule be granted.
+
+The rules for arXiv paper submissions are the same as conference paper submissions.  If the paper is not ready to be submitted to a conference it is not ready to be put on arXiv.  If conferences allow simultaneous arXiv upload I encourage it.
 
 ## To Be Explicit : The Academic Faustian Bargain
 
@@ -32,40 +40,42 @@ There will be a weekly group meeting which will consist of paper-reading, guest 
 
 ## Collaboration Method
 
-The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board working through problems related to your research, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
+The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board or looking at code working through problems related to your research, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
 
 ## My Management Style
 
-I am casual in my manner and style and am more lenient than I should be.  I walk around and talk.  I like to be engaged all the time, being updated and kept in the loop even if I can't or don't respond.  I have traditionally strongly supported the weakest members of my group and left the strongest to their own devices.  Starting now I will spend more time on the projects I find interesting and prioritize working with the students who are doing, at that time, the most interesting and best work.  
+I am casual in my manner and style and am more lenient than I should be.  I like to walk around and talk.  I like to be engaged all the time, being updated and kept in the loop even if I can't or don't respond.  I have traditionally strongly supported the weakest members of my group and left the strongest to their own devices.  Starting now I will spend more time on the projects I find interesting and prioritize working with the students who are doing, at that time, the most interesting and best work.  
 
 ### What Pisses Me Off
 
-1. Taking holiday at inappropriate times.
-2. Not working hard.
-3. Eating noises (I have a disorder: [mysophonia](https://en.wikipedia.org/wiki/Misophonia)) 
-4. Having a poor attitude.
-5. Not playing hard and having fun.
-6. Not doing world-class work.
-7. Holding meetings that have no research content.
-8. Playing politics.
-9. Not working well with others.
-10. Poor writing.
-11. Not contributing positively to the group dynamic.
-12. Not volunteering and leading group activities.
-13. Not leaving me enough time to edit papers.
-14. Playing copy-editor rather than content-editor.
-15. Not removing meetings from calendars that won't happen.
-16. Wasting my time.
-17. Not helping when asked.
-18. Being asked about holiday.
-19. You not putting your holiday in the calendar.
+1. Not being in the lab every day.
+2. Taking holiday at inappropriate times.
+3. Not working hard.
+4. Eating noises (I have a disorder: [mysophonia](https://en.wikipedia.org/wiki/Misophonia)) 
+5. Having a poor attitude.
+6. Not playing hard and having fun.
+7. Not doing world-class work.
+8. Holding meetings that have no research content.
+9. Playing politics.
+10. Not working well with others.
+11. Poor writing.
+12. Not contributing positively to the group dynamic.
+13. Not volunteering and leading group activities.
+14. Not leaving me enough time to edit papers.
+15. Playing copy-editor rather than content-editor.
+16. Not removing meetings from calendars that won't happen.
+17. Wasting my time.
+18. Not helping when asked.
+19. Being asked about holiday.
+20. You not putting your holiday in the calendar.
+21. Keeping non-standard working hours.
 
 ### Absolute No-No's
 
 1. Submitting work with my name on it without proper notification.    
 2. Lying.
 3. Unethical professional behavior (stealing ideas, irreproducible research, etc.).
-4. Anything that violates the positive space notification below.
+4. Anything that violates the positive space ideals below.
 
 ## University and Departmental Processes
 
@@ -73,7 +83,7 @@ It is your responsibility to understand, track, and meet departmental guidelines
 
 ## Positive Space
 
-[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for no spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space.  We do, however, have a sense of anything-goes sense of humor and I swear more than I should.  
+[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for no spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space and I take the underlying intent and message of positive space very seriously.  We do, however, have a sense of anything-goes sense of humor, I hate political correctness which has nothing to do with a place being a positive space, and I swear more than I should.  
 
 ## FAQ
 
