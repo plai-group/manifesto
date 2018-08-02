@@ -26,25 +26,25 @@ The most important thing I can and will do for you is, at the end, write you a l
 
 ## Meeting Scheduling And Management
 
-There is a group calendar [https://calendar.google.com/calendar/ical/k4jgdu3ee4o7mi9ef8dbkrdnj0%40group.calendar.google.com/private-818c0ce15bc18c1bcac1f3cb4d98f93b/basic.ics](calendar) which _you_ are responsible for watching, adding and removing meetings from, etc.
+There is a group calendar [calendar](https://calendar.google.com/calendar/ical/k4jgdu3ee4o7mi9ef8dbkrdnj0%40group.calendar.google.com/private-818c0ce15bc18c1bcac1f3cb4d98f93b/basic.ics) which _you_ are responsible for watching, adding and removing meetings from, etc.
 
 There will be a weekly group meeting which will consist of paper-reading, guest lectures, practice talks, brainstorming, etc.  You are _required_ to participate in weekly group meeting.
 
 ## Collaboration Method
 
-The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository in advance of said meeting and read/skim it in order to catch myself up on your work and then the remainder of our meeting can and should be spent at a board working through a problem, transitioning at about a year from me teaching you to you teaching me. 
+The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during  said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board working through a problem, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
 
 ## My Management Style
 
-I am always too busy.  Please 
+I am casual in my manner and style and am more lenient than I should be.  I walk around and talk.  I like to be engaged all the time, being updated and kept in the loop even if I can't or don't respond.  I have traditionally strongly supported the weakest members of my group and left the strongest to their own devices.  Starting now I will spend more time on the projects I find interesting and prioritize working with the students who are doing, at that time, the most interesting and best work.  
 
 ### What Pisses Me Off
 
 1. Taking holiday at inappropriate times.
 2. Not working hard.
-3. Lying. 
+3. Eating noises (I have a disorder [mysophonia](https://en.wikipedia.org/wiki/Misophonia)) 
 4. Having a poor attitude.
-5. Not playing hard.
+5. Not playing hard and having fun.
 6. Not doing world-class work.
 7. Holding meetings that have no research content.
 8. Playing politics.
@@ -52,36 +52,46 @@ I am always too busy.  Please
 10. Poor writing.
 11. Not contributing positively to the group dynamic.
 12. Not volunteering and leading group activities.
-13. Not having enough time to edit papers.
+13. Not leaving me enough time to edit papers.
 14. Playing copy-editor rather than content-editor.
 15. Not removing meetings from calendars that won't happen.
 16. Wasting my time.
+17. Not helping when asked.
+18. Being asked about holiday.
+19. You not putting your holiday in the calendar.
 
+### Absolute No-No's
 
-
-You may not submit work with my name on it without proper notification.    
+1. Submitting work with my name on it without proper notification.    
+2. Lying.
+3. Unethical professional behavior (stealing ideas, irreproducible research, etc.).
+4. Anything that violates the positive space notification below.
 
 ## University and Departmental Processes
 
-It is your responsibility to understand, track, and meet departmental guidelines and shepherd yourself through the beaurocratic procedures.  I am here to help you with your research and personal development.  I am and will remain and best forgetful and more realistically ignorant of most departmental and university processes.  I refer you to the [CS department PhD handbook](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program).  Let this be your friend and guide.
-
-## Ethics
+It is your responsibility to understand, track, and meet departmental guidelines and shepherd yourself through the necessary beaurocratic procedures.  I am here to help you with your research and personal development.  I am and will remain and best forgetful and more realistically ignorant of most departmental and university processes.  I refer you to the [CS department PhD handbook](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program).  Let this be your friend and guide.
 
 ## Positive Space
 
+[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for no spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space.  We do, however, have a sense of anything-goes sense of humor.
+
 ## Culture
+
+
 
 ## FAQ
 
 1. Can I go to ICML/ICLR/AISTATS/UAI?
-  a. Do you have a paper accepted there?  Yes.
-  b. Do you _not_ have a paper accepted there?  No.
+    a. Do you have a paper accepted there?  Yes.
+    b. Do you _not_ have a paper accepted there?  No.
 2. Should I write a workshop paper and submit it to ICML/ICLR/AISTATS/UAI?
-  a. Do you have a paper accepted there?  Yes.
-  b. Do you _not_ have a paper accepted there?  Maybe.  This depends on my mood and the laboratory funding level.  Tread cautiously.
+    a. Do you have a paper accepted there?  Yes.
+    b. Do you _not_ have a paper accepted there?  Maybe.  This depends on my mood and the laboratory funding level.  Tread cautiously.
 3. Can I do an internship?
-  a. Yes.  +One+.  Make it a good one.  And do it early, when you are less useful to me and the laboratory, rather than late in your PhD.
+    a. Yes.  _One._  Make it a good one.  And do it early, when you are less useful to me and the laboratory, rather than late in your PhD.
 4. What is your vacation policy.
-  UBC allows [https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy](15 days).  Your PhD is a _job_; treat it like one.  I will not allow holiday before conferences and other major deadlines.  I strongly encourage holiday after deadlines and after attending major conferences.
+    UBC allows [https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy](15 days).  Your PhD is a _job_; treat it like one.  I will not allow holiday before conferences and other major deadlines.  I strongly encourage holiday after deadlines and after attending major conferences.  
+5. Can I fail out of the PhD program?
+  Yes.  I do not believe everyone is cut out to get a PhD, nor do I believe that everyone should get a PhD who attempts to do so. 
   
 
