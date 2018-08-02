@@ -90,7 +90,7 @@ It is your responsibility to understand, track, and meet departmental guidelines
 3. Can I do an internship?
     a. Yes.  _One._  Make it a good one.  And do it early, when you are less useful to me and the laboratory, rather than late in your PhD.
 4. What is your vacation policy.
-    UBC allows [https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy](15 days).  Your PhD is a _job_; treat it like one.  I will not allow holiday before conferences and other major deadlines.  I strongly encourage holiday after deadlines and after attending major conferences.  
+    UBC allows [15 days](https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy).  Your PhD is a _job_; treat it like one.  I will not allow holiday before conferences and other major deadlines.  I strongly encourage holiday after deadlines and after attending major conferences.  
 5. Can I fail out of the PhD program?
   Yes.  I do not believe everyone is cut out to get a PhD, nor do I believe that everyone should get a PhD who attempts to do so. 
   
