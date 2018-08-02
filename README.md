@@ -32,7 +32,7 @@ There will be a weekly group meeting which will consist of paper-reading, guest 
 
 ## Collaboration Method
 
-The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during  said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board working through a problem, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
+The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during  said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board working through problems related to your research, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
 
 ## My Management Style
 
