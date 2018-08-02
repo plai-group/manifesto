@@ -6,7 +6,7 @@ The Programming Languages and Artificial Intelligence (PLAI) group is a research
 
 ## Student Goals
 
-We are first and foremost an academic lab.  To fit in the PLAI group your career goal prioritization must be to be, in this order, an academic, entrepreneur, or industrial research scientist.  Deviations from this prioritization or having a different goal means that you should probably leave the program.  Pursuing a PhD is a waste of your time and money if these are not your goals, and may well be even if they are.  There are more PhD graduates than academic jobs, however, PLAI group alumni have done well on the academic market and will continue to do well.
+We are first and foremost an academic lab.  To fit in the PLAI group your career goal prioritization must be to be, in this order, an academic, entrepreneur, or industrial research scientist.  Deviations from this prioritization or having a different goal means that you should probably leave the program.  Pursuing a PhD is a waste of your time and money if these are not your goals, and may well be even if they are.  There are more PhD graduates than academic jobs, however, PLAI group alumni have done well on the academic job market and will continue to do well.
 
 ## Guidelines and Standards
 
