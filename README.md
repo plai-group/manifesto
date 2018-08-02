@@ -73,11 +73,7 @@ It is your responsibility to understand, track, and meet departmental guidelines
 
 ## Positive Space
 
-[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for no spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space.  We do, however, have a sense of anything-goes sense of humor.
-
-## Culture
-
-
+[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for no spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space.  We do, however, have a sense of anything-goes sense of humor and I swear more than I should.  
 
 ## FAQ
 
