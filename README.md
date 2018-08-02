@@ -28,11 +28,11 @@ The most important thing I can and will do for you is, at the end, write you a l
 
 There is a group calendar [calendar](https://calendar.google.com/calendar/ical/k4jgdu3ee4o7mi9ef8dbkrdnj0%40group.calendar.google.com/private-818c0ce15bc18c1bcac1f3cb4d98f93b/basic.ics) which _you_ are responsible for watching, adding and removing meetings from, etc.
 
-There will be a weekly group meeting which will consist of paper-reading, guest lectures, practice talks, brainstorming, etc.  You are _required_ to participate in weekly group meeting.
+There will be a weekly group meeting which will consist of paper-reading, guest lectures, practice talks, brainstorming, etc.  You are _required_ to participate in the weekly group meeting.
 
 ## Collaboration Method
 
-The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during  said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board working through problems related to your research, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
+The agenda of our one hour weekly meeting is to be 5% administrivia and 95% current research progress.  I should have access to a current project repository in which paper-formatted LaTeX notes can be found, compiled, and (by me) read.  I will pull said repository either in advance or, more likely, during said meeting and read/skim it in order to catch myself up on and context switch to your work.  The remainder of our meeting can and should be spent at a board working through problems related to your research, transitioning (at about a year into your degree) from me teaching you to you teaching me. 
 
 ## My Management Style
 
