@@ -66,7 +66,7 @@ I am casual in my manner and style and am more lenient than I should be.  I like
 16. Not removing meetings from calendars that won't happen.
 17. Wasting my time.
 18. Not helping when asked.
-19. Being asked about holiday.
+19. Being asked about exceptional holiday.
 20. You not putting your holiday in the calendar.
 21. Keeping non-standard working hours.
 
@@ -83,7 +83,7 @@ It is your responsibility to understand, track, and meet departmental guidelines
 
 ## Positive Space
 
-[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for no spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space and I take the underlying intent and message of positive space very seriously.  We do, however, have a sense of anything-goes sense of humor, I hate political correctness which has nothing to do with a place being a positive space, and I swear more than I should.  
+[Positive space](http://positivespace.ubc.ca/) is UBC's phrase for spaces that don't allow bullying, racism, sexism, classicism, etc.  The PLAI group is one such space and I take the underlying intent and message of positive space very seriously.  We do, however, have a sense of anything-goes sense of humor, I hate political correctness which has nothing to do with a place being a positive space, and I swear more than I should.  If swearing offends you please tell me and I will try not to in your presence.
 
 ## FAQ
 
