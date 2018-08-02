@@ -42,7 +42,7 @@ I am casual in my manner and style and am more lenient than I should be.  I walk
 
 1. Taking holiday at inappropriate times.
 2. Not working hard.
-3. Eating noises (I have a disorder [mysophonia](https://en.wikipedia.org/wiki/Misophonia)) 
+3. Eating noises (I have a disorder: [mysophonia](https://en.wikipedia.org/wiki/Misophonia)) 
 4. Having a poor attitude.
 5. Not playing hard and having fun.
 6. Not doing world-class work.
