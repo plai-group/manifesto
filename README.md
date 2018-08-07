@@ -34,7 +34,7 @@ The most important thing I can and will do for you is, at the end, write you a l
 
 ## Meeting Scheduling And Management
 
-There is a group calendar [calendar](https://calendar.google.com/calendar/ical/k4jgdu3ee4o7mi9ef8dbkrdnj0%40group.calendar.google.com/private-818c0ce15bc18c1bcac1f3cb4d98f93b/basic.ics) which _you_ are responsible for watching, adding and removing meetings from, etc.
+There is a group [calendar](https://calendar.google.com/calendar/ical/k4jgdu3ee4o7mi9ef8dbkrdnj0%40group.calendar.google.com/private-818c0ce15bc18c1bcac1f3cb4d98f93b/basic.ics) which _you_ are responsible for watching, adding and removing meetings from, etc.
 
 There will be a weekly group meeting which will consist of paper-reading, guest lectures, practice talks, brainstorming, etc.  You are _required_ to participate in the weekly group meeting.
 
@@ -79,7 +79,7 @@ I am casual in my manner and style and am more lenient than I should be.  I like
 
 ## University and Departmental Processes
 
-It is your responsibility to understand, track, and meet departmental guidelines and shepherd yourself through the necessary beaurocratic procedures.  I am here to help you with your research and personal development.  I am and will remain and best forgetful and more realistically ignorant of most departmental and university processes.  I refer you to the [CS department PhD handbook](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program).  Let this be your friend and guide.
+It is your responsibility to understand, track, and meet departmental guidelines and shepherd yourself through the necessary bureaucratic procedures.  I am here to help you with your research and personal development.  I am and will remain at best forgetful and more realistically ignorant of most departmental and university processes.  I refer you to the [CS department PhD handbook](https://www.cs.ubc.ca/students/grad/policies/grad-handbook/phd-program).  Let this be your friend and guide.
 
 ## Positive Space
 
